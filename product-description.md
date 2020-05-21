@@ -1,4 +1,4 @@
-# HUD User | AHS: HUD Median Income Istimates, 1985-2009
+# HUD User | AHS: HUD Median Income Estimates, 1985-2009
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/hud-median-incomes-1985-2009](https://github.com/rearc-data/hud-median-incomes-1985-2009).
 
@@ -34,7 +34,7 @@ The dataset contained in the `HUD median incomes 1985-2009.xlsx` file includes t
 - `IN09_HUDMED`
 
 ## More Information
-- Source: [AHS: HUD Median Income Istimates, 1985-2009 | HUD USER](https://www.huduser.gov/portal/elist/2011-Sep19.html)      
+- Source: [AHS: HUD Median Income Estimates, 1985-2009 | HUD USER](https://www.huduser.gov/portal/elist/2011-Sep19.html)      
 - [HUD USER | Homepage](https://www.huduser.gov/portal/home.html)    
 - [Fair Use Information](https://www.usa.gov/government-works)  
 - Frequency: Never
