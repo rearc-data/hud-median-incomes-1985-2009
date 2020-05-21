@@ -13,7 +13,6 @@ This archive contains official HUD Area Median Income (AMI) estimates for metrop
 To learn about this data, please visit its [description webpage](https://www.huduser.gov/portal/elist/2011-Sep19.html) on the HUD USER's website.
 
 #### Data Source
-
 This resource contains three files:
 - `HUD median incomes 1985-2009.xlsx`
 - `HADS GLMED Errors.xlsx`
@@ -41,8 +40,8 @@ The dataset contained in the `HUD median incomes 1985-2009.xlsx` file includes t
 - Source: [AHS: HUD Median Income Estimates, 1985-2009 | HUD USER](https://www.huduser.gov/portal/elist/2011-Sep19.html)      
 - [HUD USER | Homepage](https://www.huduser.gov/portal/home.html)    
 - [Fair Use Information](https://www.usa.gov/government-works)  
-- Frequency: Never
-- Formats: XLS, DOCX
+- Frequency: One Time
+- Format: XLSX
 
 ## Contact Details
 - If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/hud-median-incomes-1985-2009/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
