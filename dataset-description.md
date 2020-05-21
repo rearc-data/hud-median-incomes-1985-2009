@@ -1,0 +1,1 @@
+This archive contains official HUD Area Median Income (AMI) estimates for metropolitan areas identified in the American Housing Survey (AHS) national datasets, for the years 1985-2009.
